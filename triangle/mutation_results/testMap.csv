@@ -1,0 +1,4 @@
+TestNo,TestName
+1,triangle.BranchTest
+2,triangle.MutationTest
+3,triangle.TriangleTest
